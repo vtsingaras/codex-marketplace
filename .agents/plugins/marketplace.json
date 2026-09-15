@@ -9,8 +9,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/vtsingaras/ida-pro-mcp.git",
-        "ref": "codex-providers-2",
-        "sha": "c3f1fd5f48fca682004f9c4c4d474cb02ffd74d1"
+        "ref": "codex-providers-3",
+        "sha": "f8cdef1dd1dbd92dc5989417331e1d38ef876ba0"
       },
       "policy": {
         "installation": "AVAILABLE",
