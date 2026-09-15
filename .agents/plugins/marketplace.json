@@ -1,0 +1,22 @@
+{
+  "name": "vtsingaras",
+  "interface": {
+    "displayName": "Vyron's Codex Plugins"
+  },
+  "plugins": [
+    {
+      "name": "ida-pro-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vtsingaras/ida-pro-mcp.git",
+        "ref": "codex-providers-1",
+        "sha": "42baf5ad9c2815db9263370f81dd5e01978e08b1"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
